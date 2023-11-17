@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sameera123-khatoon
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning :
-- 💞️ React library and Advance Java Script
+-  I’m currently learning :
+-  React library and Advance Java Script
 - 📫 How to reach me
 
 <!---
