@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sameera123-khatoon
-- 👀 I’m interested in web development
+- 👀 I’m interested in Data Analyst and web development
 -  I’m currently learning :
+-  Python , My Sql, and Power Bi
 -  React library and Advance Java Script
 - 📫 How to reach me ssmeera593@gmail.com
 
